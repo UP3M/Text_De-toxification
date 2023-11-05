@@ -13,6 +13,10 @@ The filtered ParaNMT-detox corpus (500K sentence pairs) can be downloaded from [
 ## Data preprocessing and Training
 The original dataset is transformed using make_dataset.py the result "interim.tsv" then trained using t5_train.py. The saved model then can be used to predict the test set using t5_predict.py. 
 
+## Trained model
+you can access the model here:  https://drive.google.com/drive/folders/1FoKy7AxV-7UOYk8g4iZYz-ytGLBbB2th?usp=sharing
+Make sure to load it before run the code or notebook
+
 ## Evaluation
 
 To evaluate your model, use evaluation.py. 
