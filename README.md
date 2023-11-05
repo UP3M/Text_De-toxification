@@ -28,7 +28,7 @@ python evaluation.py
 
 
 ## References
-
+```
 @inproceedings{dale-etal-2021-text,
     title = "Text Detoxification using Large Pre-trained Neural Models",
     author = "Dale, David  and
@@ -46,3 +46,4 @@ python evaluation.py
     url = "https://aclanthology.org/2021.emnlp-main.629",
     pages = "7979--7996",
 }
+```
